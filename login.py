@@ -1,3 +1,3 @@
 name = input("Enter the name: ")
 
-print("Hello ",name)
+print("Good morning ",name)
